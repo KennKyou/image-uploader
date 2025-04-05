@@ -577,7 +577,7 @@ onUnmounted(() => {
           />
         </el-form-item>
       </el-form>
-      <el-link href="https://www.kyoudesu.com/note/obsidian/Obsidian%20Git%20%E8%88%87%20Android%20%E8%A3%9D%E7%BD%AE%E9%80%B2%E8%A1%8C%E5%90%8C%E6%AD%A5.html#%E4%B8%89%E3%80%81github-%E7%9A%84-token-%E8%A8%AD%E5%AE%9A" target="_blank" rel="noopener noreferrer">如何獲取 GitHub Token？</el-link>
+      <el-link href="https://www.kyoudesu.com/note/daily/obsidian/obsidian-git-sync-android.html#%E4%B8%89%E3%80%81github-%E7%9A%84-token-%E8%A8%AD%E5%AE%9A" target="_blank" rel="noopener noreferrer">如何獲取 GitHub Token？</el-link>
       <template #footer>
         <span class="dialog-footer">
           <el-button @click="showTokenDialog = false">取消</el-button>
